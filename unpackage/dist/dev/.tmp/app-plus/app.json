@@ -1,0 +1,99 @@
+{
+  "pages": [
+    "pages/verification-login",
+    "pages/bottom-nav/home",
+    "pages/login/login",
+    "pages/register/nextstep",
+    "pages/register/nextsteps",
+    "pages/src/shoukuan",
+    "pages/src/history_order",
+    "pages/src/problem_detail",
+    "pages/src/walletList/ex_store",
+    "pages/forget/forget",
+    "pages/src/userinfo/list/myComments",
+    "pages/src/problem_com",
+    "pages/webview",
+    "pages/logout/logout/logout",
+    "pages/src/notification",
+    "pages/bottom-nav/financial",
+    "pages/bottom-nav/user",
+    "pages/src/wallet",
+    "pages/src/usdt_dress",
+    "pages/src/secondLevelPwd",
+    "pages/src/walletList/recharge",
+    "pages/src/walletList/recharge_announcement",
+    "pages/src/an",
+    "pages/src/financial_notice",
+    "pages/src/profit/yiyuan",
+    "pages/src/profit/conduct",
+    "pages/src/profit/recommend",
+    "pages/src/profit/team",
+    "pages/src/income",
+    "pages/src/walletList/accounts",
+    "pages/src/userinfo/list/authentications",
+    "pages/src/walletList/asset_wallet",
+    "pages/src/walletList/account",
+    "pages/src/userinfo/list/comments",
+    "pages/src/userinfo/userinfo",
+    "pages/src/userinfo/list/my_subordinate",
+    "pages/src/userinfo/list/bank",
+    "pages/src/userinfo/list/weChat",
+    "pages/src/userinfo/list/Alipay",
+    "pages/src/userinfo/list/findwallet",
+    "pages/src/userinfo/list/Modify_nicknames",
+    "pages/src/userinfo/list/ChangePassword",
+    "pages/src/userinfo/list/ModifyWallet",
+    "pages/src/userinfo/list/Walletaddress",
+    "pages/src/walletList/Withdrawmoney",
+    "pages/src/walletList/notice_withdrawal",
+    "pages/src/walletList/Rechargerecord",
+    "pages/src/walletList/Transferrecord",
+    "pages/src/walletList/DiscountRecord",
+    "pages/src/quotation",
+    "pages/src/myfinancial",
+    "pages/src/notice",
+    "pages/src/details_announcement",
+    "pages/src/userinfo/list/authentication",
+    "pages/src/code"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#091629"
+  },
+  "tabBar": {
+    "color": "#8490ae",
+    "selectedColor": "#3097ff",
+    "borderStyle": "black",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/bottom-nav/home",
+        "text": "首页",
+        "iconPath": "static/img/homeH.png",
+        "selectedIconPath": "static/img/home.png"
+      },
+      {
+        "pagePath": "pages/bottom-nav/financial",
+        "text": "支付",
+        "iconPath": "static/img/conductC.png",
+        "selectedIconPath": "static/img/conduct.png"
+      },
+      {
+        "pagePath": "pages/bottom-nav/user",
+        "text": "我的",
+        "iconPath": "static/img/userU.png",
+        "selectedIconPath": "static/img/user.png"
+      }
+    ]
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "USDT",
+  "compilerVersion": "2.2.2",
+  "usingComponents": {}
+}

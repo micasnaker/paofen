@@ -1,0 +1,1 @@
+<view style="padding:40rpx;"><view class="titlebox"><input class="inputext" placeholder="修改昵称(不超过6个字符)" data-event-opts="{{[['input',[['__set_model',['','modify','$event',[]]]]]]}}" value="{{modify}}" bindinput="__e"/></view><button class="landing" type="primary" data-event-opts="{{[['tap',[['get_modify',['$event']]]]]}}" bindtap="__e">保存并使用</button></view>

@@ -1,0 +1,44 @@
+
+.typetext{
+	color: #349cfe;
+	font-size: 30rpx;
+}
+.titlebox{
+	margin-top: 20rpx;
+}
+.inputext{
+	border: #212a3c 1rpx solid;
+	border-radius: 15rpx;
+	height: 80rpx;
+	margin-top: 20rpx;
+	font-size: 28rpx;
+	color: #fff;
+}
+.landing{ 
+	height: 84rpx;
+	line-height: 84rpx;
+	border-radius: 10rpx;
+	font-size: 32rpx;
+	background: -webkit-gradient(linear,left top, right top,from(#4286de), to(#5091e6));
+	background: -o-linear-gradient(left,#4286de, #5091e6);
+	background: linear-gradient(left,#4286de, #5091e6);
+	margin-top: 40rpx;
+}
+.title_acc{
+	padding-top: 50rpx;
+}
+.content_acc{
+	padding-top: 60rpx;
+}
+.content_acc textarea{
+	border: 1px solid #ccc;
+	width: 90%;
+	height: 200rpx;
+	margin: auto;
+	padding: 20rpx;
+}
+.tishi{
+	color: red;
+	text-align: center;
+}
+

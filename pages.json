@@ -1,0 +1,409 @@
+{
+    "pages" : [
+        //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/verification-login",
+		    "style" : {
+		        "navigationBarTitleText" : ""
+		    }
+		},
+		{
+		    "path" : "pages/bottom-nav/home",
+		    "style" : {
+		        "app-plus":{
+		        	 "titleNView": false
+		        }
+		    }
+		},
+        {
+            "path" : "pages/login/login",
+            "style" : {
+                "navigationBarTitleText" : "登录"
+            }
+        },
+        {
+            "path" : "pages/register/nextstep",
+            "style" : {
+                "navigationBarTitleText" : "注册"
+            }
+        },
+		{
+		    "path" : "pages/register/nextsteps",
+		    "style" : {
+		        "navigationBarTitleText" : "好友注册"
+		    }
+		},
+		{
+		    "path" : "pages/src/shoukuan",
+		    "style" : {
+		        "navigationBarTitleText" : "收款码"
+		    }
+		},
+		{
+		    "path" : "pages/src/history_order",
+		    "style" : {
+		        "navigationBarTitleText" : "历史接单"
+		    }
+		},
+		{
+		    "path" : "pages/src/problem_detail",
+		    "style" : {
+		        "navigationBarTitleText" : "问题解答"
+		    }
+		},
+		{
+		    "path" : "pages/src/walletList/ex_store",
+		    "style" : {
+		        "navigationBarTitleText" : "导出私钥"
+		    }
+		},
+        {
+            "path" : "pages/forget/forget",
+            "style" : {
+                "navigationBarTitleText" : "忘记密码"
+            }
+        },
+		{
+		    "path" : "pages/src/userinfo/list/myComments",
+		    "style" : {
+		        "navigationBarTitleText" : "留言反馈"
+		    }
+		},
+		{
+		    "path" : "pages/src/problem_com",
+		    "style" : {
+		        "navigationBarTitleText" : "常见问题"
+		    }
+		},
+		{
+		    "path" : "pages/webview",
+		    "style" : {
+		        "navigationBarTitleText" : ""
+		    }
+		},
+		{
+		    "path" : "pages/logout/logout/logout",
+		    "style" : {
+		        "navigationBarTitleText" : ""
+		    }
+		},
+		{
+		    "path" : "pages/src/notification",
+		    "style" : {
+		        "navigationBarTitleText" : "消息通知"
+		    }
+		},
+        {
+            "path" : "pages/bottom-nav/financial",
+            "style" : {
+                "navigationBarTitleText" : ""
+				// "app-plus":{
+				// 	 "titleNView": false
+				// }
+				
+            }
+        },
+        {
+            "path" : "pages/bottom-nav/user",
+            "style" : {
+                "navigationBarTitleText" : "我的"
+            }
+        },
+        {
+            "path" : "pages/src/wallet",
+            "style" : {
+                "navigationBarTitleText" : "钱包"
+            }
+        },
+		{
+		    "path" : "pages/src/usdt_dress",
+		    "style" : {
+		        "navigationBarTitleText" : "修改提币地址"
+		    }
+		},
+		{
+		    "path" : "pages/src/secondLevelPwd",
+		    "style" : {
+		        "navigationBarTitleText" : "修改二级密码"
+		    }
+		},
+        {
+            "path" : "pages/src/walletList/recharge",
+            "style" : {
+                "navigationBarTitleText" : "充值"
+            }
+        },
+		{
+		    "path" : "pages/src/walletList/recharge_announcement",
+		    "style" : {
+		        "navigationBarTitleText" : "充值公告"
+		    }
+		},
+		{
+		    "path" : "pages/src/an",
+		    "style" : {
+		        "navigationBarTitleText" : "推荐奖励公告"
+		    }
+		},
+		{
+		    "path" : "pages/src/financial_notice",
+		    "style" : {
+		        "navigationBarTitleText" : "理财包公告"
+		    }
+		},
+		{
+		    "path" : "pages/src/profit/yiyuan",
+		    "style" : {
+		        "navigationBarTitleText" : "一元购",
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+		    }
+		},
+        {
+            "path" : "pages/src/profit/conduct",
+            "style" : {
+                "navigationBarTitleText" : "马上接单",
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+            }
+        },
+        {
+            "path" : "pages/src/profit/recommend",
+            "style" : {
+                "navigationBarTitleText" : "推荐收益",
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+            }
+        },
+        {
+            "path" : "pages/src/profit/team",
+            "style" : {
+                "navigationBarTitleText" : "我的团队",
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+            }
+        },
+        {
+            "path" : "pages/src/income",
+            "style" : {
+                "navigationBarTitleText" : "收益明细"
+            }
+        },
+        {
+            "path" : "pages/src/walletList/accounts",
+            "style" : {
+                "navigationBarTitleText" : "资产钱包"
+            }
+        },
+		{
+		    "path" : "pages/src/userinfo/list/authentications",
+		    "style" : {
+		        "navigationBarTitleText" : "实名认证"
+		    }
+		},
+		{
+		    "path" : "pages/src/walletList/asset_wallet",
+		    "style" : {
+		        "navigationBarTitleText" : "资产钱包"
+		    }
+		},
+		 {
+		    "path" : "pages/src/walletList/account",
+		    "style" : {
+		        "navigationBarTitleText" : "转账"
+		    }
+		},
+		{
+		    "path" : "pages/src/userinfo/list/comments",
+		    "style" : {
+		        "navigationBarTitleText" : "留言反馈"
+		    }
+		},
+        {
+            "path" : "pages/src/userinfo/userinfo",
+            "style" : {
+                "navigationBarTitleText" : "个人信息"
+            }
+        },
+        {
+            "path" : "pages/src/userinfo/list/my_subordinate",
+            "style" : {
+                "navigationBarTitleText" : "我的直推"
+            }
+        },
+        {
+            "path" : "pages/src/userinfo/list/bank",
+            "style" : {
+                "navigationBarTitleText" : "修改银行卡号"
+            }
+        },
+        {
+            "path" : "pages/src/userinfo/list/weChat",
+            "style" : {
+                "navigationBarTitleText" : "修改微信账户"
+            }
+        },
+        {
+            "path" : "pages/src/userinfo/list/Alipay",
+            "style" : {
+                "navigationBarTitleText" : "修改支付宝账户"
+            }
+        },
+        {
+            "path" : "pages/src/userinfo/list/findwallet",
+            "style" : {
+                "navigationBarTitleText" : "找回钱包密码"
+            }
+        },
+		{
+		    "path" : "pages/src/userinfo/list/Modify_nicknames",
+		    "style" : {
+		        "navigationBarTitleText" : "修改昵称"
+		    }
+		},
+        {
+            "path" : "pages/src/userinfo/list/ChangePassword",
+            "style" : {
+                "navigationBarTitleText" : "修改密码"
+            }
+        },
+        {
+            "path" : "pages/src/userinfo/list/ModifyWallet",
+            "style" : {
+                "navigationBarTitleText" : "修改钱包密码"
+            }
+        },
+        {
+            "path" : "pages/src/userinfo/list/Walletaddress",
+            "style" : {
+                "navigationBarTitleText" : "绑定钱包地址"
+            }
+        },
+        {
+            "path" : "pages/src/walletList/Withdrawmoney",
+            "style" : {
+                "navigationBarTitleText" : "提现"
+            }
+        },
+		{
+		    "path" : "pages/src/walletList/notice_withdrawal",
+		    "style" : {
+		        "navigationBarTitleText" : "提币公告"
+		    }
+		},
+        {
+            "path" : "pages/src/walletList/Rechargerecord",
+            "style" : {
+                "navigationBarTitleText" : "充值记录",
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+            }
+        },
+        {
+            "path" : "pages/src/walletList/Transferrecord",
+            "style" : {
+                "navigationBarTitleText" : "转账记录",
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+            }
+        },
+        {
+            "path" : "pages/src/walletList/DiscountRecord",
+            "style" : {
+                "navigationBarTitleText" : "提现记录",
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+            }
+        },
+        {
+            "path" : "pages/src/quotation",
+            "style" : {
+                "navigationBarTitleText" : "行情"
+            }
+        },
+        {
+            "path" : "pages/src/myfinancial",
+            "style" : {
+                "navigationBarTitleText" : "支付",
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+            }
+        },
+        {
+            "path" : "pages/src/notice",
+            "style" : {
+                "navigationBarTitleText" : "消息公告",
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+            }
+        },
+		{
+		    "path" : "pages/src/details_announcement",
+		    "style" : {
+		        "navigationBarTitleText" : "公告详情"
+		    }
+		},
+		{
+		    "path" : "pages/src/userinfo/list/authentication",
+		    "style" : {
+		        "navigationBarTitleText" : "更换头像"
+		    }
+		},
+		{
+		    "path" : "pages/src/code",
+		    "style" : {
+		        "navigationBarTitleText" : "邀请二维码"
+		    }
+		}
+    ],
+    "tabBar" : {
+        "color" : "#8490ae",
+        "selectedColor" : "#3097ff",
+        "borderStyle" : "black",
+        "backgroundColor" : "#fff",
+        "list" : [
+            {
+                "pagePath" : "pages/bottom-nav/home",
+                "text" : "首页",
+                "iconPath" : "static/img/homeH.png",
+                "selectedIconPath" : "static/img/home.png"
+            },
+            {
+                "pagePath" : "pages/bottom-nav/financial",
+                "text" : "支付",
+                "iconPath" : "static/img/conductC.png",
+                "selectedIconPath" : "static/img/conduct.png"
+            },
+            {
+                "pagePath" : "pages/bottom-nav/user",
+                "text" : "我的",
+                "iconPath" : "static/img/userU.png",
+                "selectedIconPath" : "static/img/user.png"
+            }
+        ]
+    },
+    "globalStyle" : {
+        "navigationBarTextStyle" : "black",
+        "navigationBarBackgroundColor" : "#fff",
+        "backgroundColor" : "#091629"
+    },
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

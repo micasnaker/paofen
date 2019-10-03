@@ -1,0 +1,32 @@
+
+.titlenav{
+	width: 80%;
+	background: #00acfe;
+	border-radius: 30rpx;
+	margin: 80rpx auto; 
+	padding: 40rpx;
+}
+.float{
+	width: 40%;
+	margin: 13rpx;
+	padding: 20rpx;
+	position: relative;
+}
+.username{
+	color: white;
+	font-size: 28rpx;
+}
+.textnav3{
+	color: #687c99;
+	font-size: 28rpx;
+	margin-top: 80rpx;
+	text-align: center;
+}
+.icon{
+	width: 65rpx;
+	height: 60rpx;
+	position: absolute;
+	left: 50%;
+	margin-left: -32rpx;
+}
+

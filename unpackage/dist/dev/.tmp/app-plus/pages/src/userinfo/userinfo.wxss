@@ -1,0 +1,17 @@
+
+.listnav {
+	margin: 0 auto;
+	width: 88%;
+	height: 50rpx;
+	border-top: #1f2a3e solid 0.5rpx;
+	line-height: 50rpx;
+	border-left: none;
+	border-right: none;
+	padding: 20rpx;
+}
+.textnav {
+	color: #687c99;
+	font-size: 30rpx;
+	margin: 20rpx 5rpx;
+}
+

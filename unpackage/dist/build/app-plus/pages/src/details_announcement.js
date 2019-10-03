@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"title{ height: ",[0,80],"; margin-top: ",[0,60],"; color: #349cfe; padding: 0 ",[0,40],"; }\n.",[1],"nav{ padding:0 ",[0,40],"; margin-top: ",[0,20],"; color: #fff; }\n.",[1],"tab{ height: ",[0,200],"; margin-top: ",[0,20],"; width: 30%; float: right; color: #fff; }\n",],undefined,{path:"./pages/src/details_announcement.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/src/details_announcement.wxml') } }));

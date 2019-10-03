@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"textnav{ color: white; width: 25%; font-size: ",[0,30],"; text-align: center; margin-top: ",[0,60],"; }\n.",[1],"textnav1{ width: 25%; height: ",[0,24],"; color: #349cfe; font-size: ",[0,30],"; text-align: center; line-height: ",[0,48],"; }\n",],undefined,{path:"./pages/src/userinfo/list/my_subordinate.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/src/userinfo/list/my_subordinate.wxml') } }));

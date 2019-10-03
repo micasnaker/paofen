@@ -1,0 +1,33 @@
+
+.titlenav{
+	width: 94%;
+	height: 500rpx;
+	background: #091629;
+	border-radius: 30rpx;
+	margin: 0 auto; 
+	position: relative;
+}
+.float{
+	height: 28%;
+	width: 46%;
+	background: #1C1D22;
+	margin: 13rpx;
+	border-radius:20rpx;
+	float: left;
+}
+.textnav{
+	color: white; 
+	font-size: 28rpx;
+	margin: 20rpx 10rpx;
+}
+.listnav{
+	margin: 0 auto;
+	width: 88%;
+	height: 40rpx;
+	border-top: #1f2a3e solid 0.5rpx;
+	line-height: 40rpx;
+	border-left:none;
+	border-right:none;
+	padding: 20rpx;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "实名认证",
+  "usingComponents": {
+    "an-upload-img": "/components/an-uploadImg/an-uploadImg"
+  }
+}

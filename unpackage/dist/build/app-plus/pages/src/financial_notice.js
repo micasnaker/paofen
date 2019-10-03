@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"title{ width: 80%; color: #687c99; font-weight: 600; font-size: ",[0,32],"; margin: 0 auto; text-align: center; margin-top: ",[0,40],"; }\n.",[1],"nav{ color: #687c99; font-size: ",[0,28],"; margin: ",[0,10]," 0; }\n.",[1],"navs{ color: #687c99; font-size: ",[0,28],"; margin: ",[0,5]," ",[0,20],"; }\n",],undefined,{path:"./pages/src/financial_notice.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/src/financial_notice.wxml') } }));

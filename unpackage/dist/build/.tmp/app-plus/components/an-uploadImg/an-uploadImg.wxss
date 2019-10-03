@@ -1,0 +1,21 @@
+
+.group{
+	height: 300rpx;
+	margin-top: 40rpx;
+}
+.an-img-add{
+	float: left; 
+	height: 200rpx; 
+	width: 300rpx; 
+	border: #4286de solid 1rpx;
+	background: #13213d;
+	text-align: center; 
+	line-height: 200rpx;
+}
+.an-img-add2{
+	height: 200rpx; 
+	width: 300rpx; 
+	border: #4286de solid 1rpx;
+	position: absolute;
+}
+

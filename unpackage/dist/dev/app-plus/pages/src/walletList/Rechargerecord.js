@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"box{ height: ",[0,150],"; }\n",],undefined,{path:"./pages/src/walletList/Rechargerecord.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/src/walletList/Rechargerecord.wxml') } }));

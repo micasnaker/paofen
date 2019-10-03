@@ -1,0 +1,66 @@
+
+.landing{ 
+	height: 84rpx;
+	line-height: 84rpx;
+	border-radius: 10rpx;
+	font-size: 32rpx;
+	background: -webkit-gradient(linear,left top, right top,from(#4286de), to(#5091e6));
+	background: -o-linear-gradient(left,#4286de, #5091e6);
+	background: linear-gradient(left,#4286de, #5091e6);
+	margin-top: 40rpx;
+}
+.verify-btn{
+	height: 80rpx;
+	line-height: 80rpx;
+	font-size: 28rpx;
+	width: 240rpx;
+	border-radius: 15rpx;
+	float: right;
+}
+.verify-left{
+	width: calc(100% - 260rpx);
+}
+.verify-right{
+	padding-left: 20rpx;
+}
+.verify-btn{
+	height: 80rpx;
+	line-height: 80rpx;
+	font-size: 28rpx;
+	width: 240rpx;
+	border-radius: 8rpx;
+	background: -webkit-gradient(linear,left top, right top,from(#4286de), to(#5091e6));
+	background: -o-linear-gradient(left,#4286de, #5091e6);
+	background: linear-gradient(left,#4286de, #5091e6);
+}
+.verify-left,.verify-right{
+	float: left;
+}
+.forget-btn{
+	padding: 10rpx 20rpx;
+	margin-top: 140rpx;
+}
+.forget-input input{
+	border: #212a3c 1rpx solid;
+	font-size: 28rpx;
+	color: #666;
+	padding: 10rpx 25rpx;
+	height: 62rpx;
+	line-height: 62rpx;
+	border-radius: 15rpx;
+}
+.forget-margin-b{
+	margin-bottom: 25rpx;
+}
+.forget-input{
+	padding: 10rpx 20rpx;
+	overflow: auto;
+}
+.forget-card{
+	position: relative;
+}
+.forget-bg {
+	height: 260rpx;
+	padding: 25rpx;
+}
+

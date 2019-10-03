@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "收款码",
+  "usingComponents": {
+    "an-upload-img": "/components/an-uploadImg/an-uploadImg"
+  }
+}

@@ -1,0 +1,35 @@
+
+.textnav{
+	color: white;
+	width: 25%;
+	font-size: 30rpx;
+	text-align: center;
+}
+.textnav1{
+	color: #349cfe; 
+	font-size: 30rpx;
+	text-align: center;
+	margin-top: 40rpx;
+}
+.box{
+	height: 60rpx;
+	width: 20%;
+	color: #657995;
+	font-size: 24rpx;
+	text-align: center;
+	border-radius: 50rpx;
+	line-height: 60rpx;
+	margin: 20rpx;
+}
+.active{
+	height: 60rpx;
+	width: 20%;
+	background: #283247;
+	color: #fff;
+	font-size: 24rpx;
+	text-align: center;
+	border-radius: 50rpx;
+	line-height: 60rpx;
+	margin: 20rpx;
+}
+

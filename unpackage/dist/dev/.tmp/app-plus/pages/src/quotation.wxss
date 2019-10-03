@@ -1,0 +1,28 @@
+
+.textnav{
+	width: 30%;
+	color: #349cfe;
+	font-size: 32rpx;
+	text-align: center;
+}
+.textnav1{
+	width: 30%;
+	color: white; 
+	font-size: 30rpx;
+	text-align: center;
+}
+.negative{
+	width: 30%;
+	color: red; 
+	font-size: 30rpx;
+	text-align: center;
+}
+.just{
+	color: green
+}
+.textnav2{
+	color: white; 
+	font-size: 32rpx;
+	text-align: center;
+}
+

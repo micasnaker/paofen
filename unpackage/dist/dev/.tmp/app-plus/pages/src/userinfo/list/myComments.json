@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "留言反馈",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni-option"
+  }
+}

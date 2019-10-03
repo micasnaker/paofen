@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的团队",
+  "bounce": "none",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "neil-modal": "/components/neil-modal/neil-modal"
+  }
+}

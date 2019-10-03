@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "消息公告",
+  "bounce": "none",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

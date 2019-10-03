@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "更换头像",
+  "usingComponents": {
+    "an-upload-img": "/components/an-uploadImg/an-uploadImg"
+  }
+}

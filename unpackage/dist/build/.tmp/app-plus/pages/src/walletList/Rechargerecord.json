@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "充值记录",
+  "bounce": "none",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

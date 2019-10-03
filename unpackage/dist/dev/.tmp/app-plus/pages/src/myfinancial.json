@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "支付",
+  "bounce": "none",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

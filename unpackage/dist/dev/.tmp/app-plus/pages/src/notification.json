@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "消息通知",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

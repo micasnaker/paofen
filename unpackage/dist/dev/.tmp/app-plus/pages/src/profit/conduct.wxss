@@ -1,0 +1,47 @@
+
+.textnav{
+	color: white;
+	width: 25%;
+	font-size: 30rpx;
+	text-align: center;
+	margin-top: 60rpx;
+}
+.textnav1{
+	color: #349cfe; 
+	font-size: 30rpx;
+	text-align: center;
+}
+.titlenav{
+	width: 90%;
+	background: #fff;
+	border-radius: 30rpx;
+	margin: 20rpx auto; 
+	position: relative;
+	margin: 3%;
+	-webkit-box-shadow: 0px 5px 15px #888888;
+	        box-shadow: 0px 5px 15px #888888;
+	padding: 40rpx 20rpx;
+}
+.landing{
+	height: 84rpx;
+	line-height: 84rpx;
+	border-radius: 10rpx;
+	font-size: 32rpx;
+	background: -webkit-gradient(linear,left top, right top,from(#4286de), to(#5091e6));
+	background: -o-linear-gradient(left,#4286de, #5091e6);
+	background: linear-gradient(left,#4286de, #5091e6);
+}
+.forget-btn{
+	padding: 10rpx 20rpx;
+	margin-top: 80rpx;
+}
+.forget-input {
+	border: #212a3c 1rpx solid;
+	color: #687c99;
+	font-size: 28rpx; 
+	padding: 10rpx 25rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	border-radius: 15rpx;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "一元购",
+  "bounce": "none",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"textnav{ width: 30%; color: #349cfe; font-size: ",[0,32],"; text-align: center; }\n.",[1],"textnav1{ width: 30%; color: white; font-size: ",[0,30],"; text-align: center; }\n.",[1],"negative{ width: 30%; color: red; font-size: ",[0,30],"; text-align: center; }\n.",[1],"just{ color: green }\n.",[1],"textnav2{ color: white; font-size: ",[0,32],"; text-align: center; }\n",],undefined,{path:"./pages/src/quotation.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/src/quotation.wxml') } }));

@@ -1,0 +1,63 @@
+
+.tis {
+	font-size: 24rpx;
+	color: #4286de;
+}
+.phonebox {
+	width: 45%;
+	height: 200rpx;
+	background: #13213d;
+	margin: 20rpx;
+	border: #4286de solid 2rpx;
+	border-radius: 15rpx;
+	text-align: center;
+}
+.typetext {
+	color: #687c99;
+	font-size: 30rpx;
+}
+.titlebox {
+	margin-top: 50rpx;
+}
+.inputext {
+	border: #212a3c 1rpx solid;
+	border-radius: 15rpx;
+	height: 80rpx;
+	margin-top: 20rpx;
+	font-size: 28rpx;
+	color: #fff;
+}
+.landing {
+	height: 84rpx;
+	line-height: 84rpx;
+	border-radius: 10rpx;
+	font-size: 32rpx;
+	background: -webkit-gradient(linear, left top, right top, from(#4286de), to(#5091e6));
+	background: -o-linear-gradient(left, #4286de, #5091e6);
+	background: linear-gradient(left, #4286de, #5091e6);
+	margin-top: 100rpx;
+}
+.user_avatar {
+	width: 200rpx;
+	height: 200rpx;
+	margin: auto;
+}
+.user_avatar image {
+	width: 200rpx;
+	height: 200rpx;
+}
+.avatar_change {
+	height: 600rpx;
+	width: 88%;
+	margin: auto;
+	-webkit-box-shadow: 0px 14px 18px 0px rgba(183, 183, 183, 0.2);
+	        box-shadow: 0px 14px 18px 0px rgba(183, 183, 183, 0.2);
+}
+.choose_img {
+	width: 200rpx;
+	height: 80rpx;
+	background-color: #1AAD19;
+	margin: auto;
+	margin-top: 80rpx;
+}
+

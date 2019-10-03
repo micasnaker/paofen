@@ -1,0 +1,21 @@
+
+.title{
+	width: 80%;
+	color: #687c99;
+	font-weight: 600;
+	font-size: 32rpx;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 40rpx;
+}
+.nav{
+	color: #687c99;
+	font-size: 28rpx;
+	margin: 10rpx 0;
+}
+.navs{
+	color: #687c99;
+	font-size: 28rpx;
+	margin: 5rpx 20rpx;
+}
+

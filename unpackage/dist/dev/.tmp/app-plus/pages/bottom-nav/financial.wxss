@@ -1,0 +1,93 @@
+
+.wallet {
+	width: 100%;
+	height: 100%;
+}
+.wallet_wrap {
+	width: 90%;
+	margin: auto;
+	height: 350rpx;
+}
+.wallet_yue {
+	font-size: 38rpx;
+	font-family: PingFang SC;
+	font-weight: bold;
+	color: rgba(1, 10, 17, 1);
+	padding-left: 70rpx;
+	padding-top: 60rpx;
+	text-align: center;
+}
+.wallet_num {
+	font-size: 60rpx;
+	font-family: PingFang SC;
+	font-weight: 500;
+	margin: 0 auto;
+	width: 80%;
+	padding-top: 60rpx;
+	text-align: center;
+}
+.edu {
+	width: 90%;
+	margin: auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.edu_wrap {
+	width: 49%;
+	height: 174rpx;
+	border-radius: 6px;
+}
+.edu_img {
+	width: 100%;
+	height: 174rpx;
+}
+.edu_posi {
+	position: absolute;
+	margin-top: -180rpx;
+	padding-left: 20rpx;
+}
+.erweima {
+	width: 140rpx;
+	height: 140rpx;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 2px;
+	text-align: center;
+	margin-left: 20rpx;
+	margin-top: 10rpx;
+}
+.erweimas {
+	width: 160rpx;
+	height: 160rpx;
+	border-radius: 2px;
+	text-align: center;
+	margin-left: 20rpx;
+	margin-top: 5rpx;
+}
+.erweima_img {
+	width: 114rpx;
+	height: 114rpx;
+	margin: auto;
+	margin-top: 14rpx;
+}
+.erweima_imgs {
+	width: 134rpx;
+	height: 134rpx;
+	margin: auto;
+	margin-top: 14rpx;
+}
+.titlenavs {
+	background: #fff;
+}
+.fontbg {
+	background: #b7b7b7;
+	border-radius: 3rpx;
+	width: 40rpx;
+	text-align: center;
+}
+

@@ -1,0 +1,39 @@
+
+.titlenav{
+	width: 94%;
+	height: 560rpx;
+	background: #091629;
+	border-radius: 30rpx;
+	margin: 0 auto; 
+	position: relative;
+}
+.float{
+	width: 46%;
+	background: #070d25;
+	margin: 13rpx;
+	border-radius:15rpx;
+	float: left;
+}
+.textnav{
+	color: white; 
+	font-size: 30rpx;
+	margin: 10rpx 10rpx;
+}
+.textnav1{
+	color: #349cfe;
+	font-size: 32rpx;
+	margin: 10rpx 10rpx;
+}
+.username{
+	color: white;
+	font-size: 28rpx;
+}
+.listnav{
+	height: 60rpx;
+	border-top: #1f2a3e solid 0.5rpx;
+	line-height: 60rpx;
+	border-left:none;
+	border-right:none;
+	padding: 20rpx;
+}
+

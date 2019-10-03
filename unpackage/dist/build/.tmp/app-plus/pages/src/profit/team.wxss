@@ -1,0 +1,33 @@
+
+.textnav1{
+	color: #349cfe; 
+	font-size: 30rpx;
+	text-align: center;
+	width: 50%;
+}
+.textnav{
+	font-size: 30rpx;
+	text-align: center;
+	width: 50%;
+	margin-top: 40rpx;
+}
+.titlenav{
+	width: 90%;
+	background: #fff;
+	border-radius: 30rpx;
+	margin: 20rpx auto; 
+	position: relative;
+	margin: 3%;
+	-webkit-box-shadow: 0px 3px 5px #888888;
+	        box-shadow: 0px 3px 5px #888888;
+	padding: 20rpx;
+}
+/* 	弹出框样式 */
+input {
+		border: #E5E5E5 1px solid;
+		width: 90%;
+		margin: 20rpx;
+		padding: 10rpx;
+}
+
+

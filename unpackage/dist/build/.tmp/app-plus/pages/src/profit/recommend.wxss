@@ -1,0 +1,14 @@
+
+.textnav{
+	color: white;
+	width: 25%;
+	font-size: 30rpx;
+	text-align: center;
+	margin-top: 60rpx;
+}
+.textnav1{
+	color: #349cfe; 
+	font-size: 30rpx;
+	text-align: center;
+}
+
